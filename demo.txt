@@ -1,1 +1,1 @@
-This is the main branch line.
+This is the resolved version of both branches
